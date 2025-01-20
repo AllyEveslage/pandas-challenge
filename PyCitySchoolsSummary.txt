@@ -1,0 +1,11 @@
+Written Report (15 points)
+To receive all points, the written report presents a cohesive written analysis that:
+•	Summarizes the analysis (5 points)
+•	Draws two correct conclusions or comparisons from the calculations (10 points)
+
+-To summarize, the data provided to us consisted of math scores and reading scores from 15 schools with differing populations, differing funding, and differing types of schools. 
+	Using this raw data set, we were able to extract and organize overall passing scores for math and reading. Using these passing scores, we are able to draw several conclusions as 
+	to how students are affected by their environment within their education performances. 
+
+1.	The highest performances came from Charter schools. Charter schools with lesser funding made up the top 5 in both math and reading scores. 
+2.	District schools which house a large population of students and large school budgets scored almost half of the highest scoring performing schools. 
